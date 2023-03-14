@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Greetings 👋, Jamshaid Javaid here</h1>
+<h3 align="center">MERN Stack Developer from Pakistan</h3>
+<hr>
 
-<!--
-**jamshaidjavaid/jamshaidjavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img height="25px" src="https://komarev.com/ghpvc/?username=jamshaidjavaid&label=Profile%20views&color=0e75b6&style=flat" alt="jamshaidjavaid" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/jamshaidjavaid_" target="blank"><img src="https://img.shields.io/twitter/follow/jamshaidjavaid_?logo=twitter&style=for-the-badge" alt="jamshaidjavaid_" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on **[FYPMS-Project](https://github.com/jamshaidjavaid/fypms)**
+- 🌱 I’m currently learning  **ReactJs, NextJs, NodeJs, MongoDB**
+- 📫 How to reach me **jamshaidjavaid360@gmail.com**
+
+
+
+
+<br>
+<br>
+<br>
+<h4 align="center" height="100px">GitHub Stats</h4>
+<hr>
+
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamshaidjavaid&show_icons=true&locale=en" alt="jamshaidjavaid" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamshaidjavaid&show_icons=true&locale=en&layout=compact" alt="jamshaidjavaid" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshaidjavaid&" alt="jamshaidjavaid" /></p>
+
