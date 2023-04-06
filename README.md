@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, Jamshaid Javaid here</h1>
+<h1 align="center">Greetings 👋, Jamshaid Javaid here!</h1>
 <h3 align="center">MERN Stack Developer from Pakistan</h3>
 <hr>
 
