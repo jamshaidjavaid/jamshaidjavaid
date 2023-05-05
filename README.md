@@ -9,7 +9,9 @@
 
 
 - 🔭 I’m currently working on **[FYPMS-Project](https://github.com/jamshaidjavaid/fypms)**
-- 🌱 I’m currently learning  **ReactJs, NextJs, NodeJs, MongoDB**
+- 👨‍💻 I’m currently developing apps with **ReactJs, NextJs, NodeJs, ExpressJs, MongoDB**
+- 🌱 I’m  learning and exploring **ThreeJs**
+
 - 📫 How to reach me **jamshaidjavaid360@gmail.com**
 
 
