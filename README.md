@@ -2,6 +2,7 @@
 <h3 align="center">MERN Stack Developer | Full-Stack Software Engineer</h3>
 
 <p align="center">
+  <a href="https://jamshaidjavaid.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio: jamshaidjavaid.netlify.app" /></a>
   <a href="https://twitter.com/jamshaidjavaid_" target="_blank"><img src="https://img.shields.io/twitter/follow/jamshaidjavaid_?logo=twitter&style=for-the-badge" alt="Twitter: jamshaidjavaid_" /></a>
   <a href="https://linkedin.com/in/jamshaid-javaid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn: Jamshaid Javaid" /></a>
   <img src="https://komarev.com/ghpvc/?username=jamshaidjavaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jamshaidjavaid" />
