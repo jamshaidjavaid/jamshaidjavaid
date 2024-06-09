@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/jamshaidjavaid_" target="blank"><img src="https://img.shields.io/twitter/follow/jamshaidjavaid_?logo=twitter&style=for-the-badge" alt="jamshaidjavaid_" /></a> </p>
 
 
-- 👨‍💻 I’m currently developing apps with **ReactJs, NextJs, NodeJs, ExpressJs, MongoDB**
+- 👨‍💻 I’m currently developing apps with **ReactJs, NextJs, NodeJs, ExpressJs, NestJs, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **jamshaidjavaid360@gmail.com**
 
