@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a dedicated and passionate **MERN Stack Developer** with a knack for building scalable, secure, and efficient web applications. My journey in the tech world is driven by my curiosity and continuous learning, enabling me to stay at the forefront of technological advancements.
+**Full-Stack Developer**, having more than 3 years of experience in fast-paced, scalable development using JavaScript/TypeScript, Python, and MERN stack (MongoDB, Express.js, React.js, Node.js), and delivering outstanding results and robust solutions.
 
 - 🔭 **Currently Working On:** Cutting-edge projects using **React.js, Next.js, Node.js, Express.js, Nest.js, PostgreSQL, MongoDB**
 - 🌱 **Continuous Learner:** Always exploring new technologies and frameworks to enhance my skill set.
