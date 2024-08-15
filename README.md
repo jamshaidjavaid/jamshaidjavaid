@@ -99,12 +99,8 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamshaidjavaid&show_icons=true&locale=en&theme=radical" alt="jamshaidjavaid" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamshaidjavaid&show_icons=true&locale=en&layout=compact&theme=radical" alt="jamshaidjavaid" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamshaidjavaid&theme=radical" alt="jamshaidjavaid" />
-</p>
+
