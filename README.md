@@ -118,8 +118,3 @@ I'm a **Full Stack Software Engineer** with 3+ years of experience building scal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamshaidjavaid&show_icons=true&locale=en&layout=compact&theme=radical" alt="jamshaidjavaid" />
-</p>
