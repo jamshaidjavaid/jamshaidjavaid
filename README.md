@@ -66,8 +66,15 @@ I'm a **Full Stack Software Engineer** with 3+ years of experience building scal
 
 ## 💼 Work Experience
 
+### 💻 Full Stack Engineer | CreditBook (Remote)
+`Oct 2024 – Present`
+- Contributing to the design and development of scalable fintech solutions for micro-merchants.
+- Working across the stack using **Next.js**, **Node.js**, **Redis**, **BullMQ**, **PostgreSQL**, and **AWS** services.
+- Improving system reliability and code maintainability across lending and financial service domains.
+- Collaborating with cross-functional teams to deliver seamless user experiences and scalable backend systems.
+
 ### 💻 Software Engineer (Full Stack) | Webwrite Inc. (Lahore, PK)
-`May 2023 – Present`
+`May 2023 – Oct 2024`
 - Developed responsive web apps and reusable UI components, increasing development speed by 30%.
 - Built robust APIs with Node.js & Nest.js, integrating authentication (OAuth2, JWT, MFA).
 - Architected and maintained HIPAA-compliant healthcare platforms.
