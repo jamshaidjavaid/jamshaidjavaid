@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, Jamshaid Javaid here!</h1>
-<h3 align="center">Full-Stack Software Engineer | MERN Stack Developer</h3>
+<h3 align="center">Full Stack Software Engineer | Cloud Enthusiast | DevOps Friendly</h3>
 
 <p align="center">
   <a href="https://jamshaidjavaid.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio: jamshaidjavaid.netlify.app" /></a>
@@ -11,17 +11,19 @@
 ---
 
 ## 🧑‍💻 About Me
-**Full-Stack Developer**, having more than 3 years of experience in fast-paced, scalable development using JavaScript/TypeScript, Python, and MERN stack (MongoDB, Express.js, React.js, Node.js), and delivering outstanding results and robust solutions.
 
-- 🔭 **Currently Working On:** Cutting-edge projects using **React.js, Next.js, Node.js, Express.js, Nest.js, PostgreSQL, MongoDB**
-- 🌱 **Continuous Learner:** Always exploring new technologies and frameworks to enhance my skill set.
+I'm a **Full Stack Software Engineer** with 3+ years of experience building scalable and maintainable web apps using **JavaScript/TypeScript**, **Python**, and the **MERN stack**. I’ve worked across startups and client-based projects delivering cloud-based solutions with secure APIs, scalable architectures, and solid frontend experiences.
+
+- 🔭 **Currently Working On:** Complex systems using **React.js, Next.js, Node.js, Nest.js, Redis, BullMQ, PostgreSQL, MongoDB**
+- 🌍 **Open To:** Remote-first roles, freelance projects, and collaborations worldwide
+- ☁️ **Cloud & DevOps:** Hands-on with **AWS**, **Azure**, **Docker**, **GitHub Actions**, and **CI/CD pipelines**
 - 📫 **Contact Me At:** [jamshaidjavaid360@gmail.com](mailto:jamshaidjavaid360@gmail.com)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,78 +31,88 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge&logo=redis&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Version Control & Cloud
+### 🧩 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🚀 DevOps & Cloud
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Developer Tools
+### 🧰 Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=green)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-### Software Engineer (Full Stack) | Webwrite Inc. (Lahore, PK)
-**May 2023 – Present**
-- 🚀 Developed and maintained high-performance web application UIs, significantly improving customer satisfaction.
-- 🔒 Implemented secure, scalable Node.js back-ends with efficient databases, ensuring faster API responses.
-- 🔐 Enforced HIPAA compliance and robust authentications (OAuth, JWT, MFA) for enhanced security.
-- ☁️ Optimized AWS cloud infrastructure (VPC, CloudFormation, EC2, S3, IAM) for efficient resource utilization.
-- 💼 Collaborated with the CI/CD team for streamlined deployments and controlled fault-tolerant releases.
-- 🎓 Conducted domain-specific training and mentored junior team members for skill development.
+### 💻 Software Engineer (Full Stack) | Webwrite Inc. (Lahore, PK)
+`May 2023 – Present`
+- Developed responsive web apps and reusable UI components, increasing development speed by 30%.
+- Built robust APIs with Node.js & Nest.js, integrating authentication (OAuth2, JWT, MFA).
+- Architected and maintained HIPAA-compliant healthcare platforms.
+- Optimized infrastructure using AWS (EC2, S3, IAM) and CI/CD pipelines via GitHub Actions.
+- Mentored junior devs, conducted training, and collaborated in Agile sprints.
 
-### Software Engineer | Digital Dynamics (Remote)
-**August 2023 – April 2024**
-- 🌐 Built web apps using cutting-edge technologies (Next.js, React, Node.js) and databases (MongoDB, PostgreSQL).
-- 💳 Integrated payment options (Stripe, PayPal, Square) and implemented KYC verification for financial applications.
-- ☁️ Leveraged cloud services (AWS and Azure) utilizing monolithic and serverless (AWS Lambda) architectures.
-- 🔧 Contributed to the development of various UI components and APIs for new features, enhancing user experience.
+### 💻 Software Engineer | Digital Dynamics (Remote)
+`Aug 2023 – Apr 2024`
+- Developed B2B and B2C platforms in React, Next.js, and Express.js.
+- Implemented payment flows with Stripe, PayPal, and KYC verification services.
+- Built microservice & serverless APIs on AWS Lambda.
+- Designed scalable database schemas in PostgreSQL & MongoDB.
 
-### Intern, MERN Stack Developer | Webwrite Inc. (Lahore, PK)
-**March 2023 – May 2023**
-- 🌟 Developed an immersive e-commerce experience using Next.js and implemented Node.js API integration.
-- 📄 Wrote documentation for various medical systems and created unit tests, ensuring stable builds.
+### 🧪 Intern, MERN Stack Developer | Webwrite Inc.
+`Mar 2023 – May 2023`
+- Contributed to a medical e-commerce app using Next.js.
+- Created backend API integrations and wrote documentation & tests.
 
 ---
 
 ## 📂 Recent Projects
 
-### Partikarte - Online Events Booking and Management System
-- 🎉 Developed a robust multi-vendor event management platform, empowering vendors to manage their businesses and offering a user-friendly ticketing system with secure payment integrations like Stripe and Bankart.si.
+### 🎟️ **Partikarte** — Event Booking & Vendor Management System
+- Multi-vendor system with Stripe, Bankart.si payments, and event analytics.
+- Built on Next.js, Node.js, PostgreSQL, and deployed to AWS.
 
-### American Clinic Online - Patient Booking & E-Hospital Management System
-- 🏥 Built a secure HIPAA-compliant telehealth platform using the MERN stack, allowing online consultations with video chat, messaging, and notifications. Ensured efficient deployment on AWS and reliable system maintenance through a fault-tolerant CI/CD pipeline.
+### 🏥 **American Clinic Online** — Telehealth & E-Hospital Platform
+- HIPAA-compliant system with video consultations, messaging, and appointment scheduling.
+- Scalable CI/CD using Docker, GitHub Actions, and AWS.
 
-### FightLife - Personalized Fitness Platform
-- 🏋️‍♂️ Implemented a feature-rich fitness app featuring real-time chat, appointment scheduling, and secure payments, fostering a strong user community. The app’s workout tracking system and trainer-focused calendar interface empower personalized coaching and improve client outcomes.
-
----
-
-## 🌍 Social Services
-- **Volunteer Social Media Marketer** - Shaukat Khanum Memorial Cancer Hospital, Lahore
-- **Media and Marketing Lead** - UE IT Society, Lahore
-- **IT and Media Secretary** - Help Together Foundation, Khanewal
+### 🏋️ **FightLife** — Personalized Fitness Coaching App
+- Built interactive dashboards, real-time chat, booking, and trainer-specific calendars.
+- Integrated Stripe & implemented push notifications.
 
 ---
 
-## 📈 GitHub Stats
+## 🌍 Social Service Involvement
+- 🎗️ **Volunteer Marketer** – Shaukat Khanum Memorial Cancer Hospital
+- 💼 **Media & Marketing Lead** – UE IT Society, Lahore
+- 🤝 **IT & Media Secretary** – Help Together Foundation
 
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamshaidjavaid&show_icons=true&locale=en&layout=compact&theme=radical" alt="jamshaidjavaid" />
 </p>
-
