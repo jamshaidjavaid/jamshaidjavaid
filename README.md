@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, Jamshaid Javaid here!</h1>
-<h3 align="center">Full Stack Software Engineer | Cloud Enthusiast | DevOps Friendly</h3>
+<h3 align="center">Full Stack Software Engineer Full Stack Engineer | Agentic AI Engineer | Building AI-native applications</h3>
 
 <p align="center">
   <a href="https://jamshaidjavaid.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio: jamshaidjavaid.netlify.app" /></a>
